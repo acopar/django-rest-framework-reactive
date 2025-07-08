@@ -2,6 +2,7 @@
 Django settings for running tests for django-rest-framework-reactive package.
 
 """
+
 import os
 
 PROJECT_ROOT = os.path.abspath(os.path.dirname(__file__))

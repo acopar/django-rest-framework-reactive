@@ -1,6 +1,7 @@
 """
 The serializers defined here are only used during testing.
 """
+
 from rest_framework import serializers
 
 from . import models
